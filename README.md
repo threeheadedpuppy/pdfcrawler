@@ -27,3 +27,9 @@ To open links in a pdf:-
 pipenv run python crawler.py example.pdf -i
 # When prompted, type an 'o'
 ```
+
+## Distributed Exe
+Alternatively, if on windows, a compiled exe can be used instead, download and extract [exe/crawler.zip] and run as follows:-
+```sh
+crawler.exe --help
+```
