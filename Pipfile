@@ -10,4 +10,4 @@ pypdf = "*"
 pyinstaller = "*"
 
 [requires]
-python_version = "3.1"
+python_version = "3"
